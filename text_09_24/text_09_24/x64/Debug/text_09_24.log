@@ -1,0 +1,3 @@
+﻿  my_atio.c
+C:\Users\18377\source\repos\daily_text\text_09_24\text_09_24\my_atio.c(79): warning C4715: “my_atio”: 不是所有的控件路径都返回值
+  text_09_24.vcxproj -> C:\Users\18377\source\repos\daily_text\text_09_24\x64\Debug\text_09_24.exe
